@@ -7,8 +7,8 @@ This repository contains a text file of Anki cards for ~all~ most* CSS propertie
 
 ## Download
 
-* File: [**CSS-PROPERTIES-ANKI-DECK.txt**](./CSS-PROPERTIES-ANKI-DECK.txt) and import it into Anki.
-* Also available as a [**shared deck**](https://ankiweb.net/shared/info/1468761769) on AnkiWeb.
+* Download the official deck from AnkiWeb's shared decks [**here**](https://ankiweb.net/shared/info/1468761769).
+* Alternatively, download [**CSS-PROPERTIES-ANKI-DECK.txt**](./CSS-PROPERTIES-ANKI-DECK.txt) and import it into Anki. Note that it will be up to you to format the deck yourself.
 
 ## Contributing
 
