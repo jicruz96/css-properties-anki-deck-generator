@@ -1,4 +1,4 @@
-# CSS Properties Anki Deck | [DOWNLOAD DECK HERE](https://ankiweb.net/shared/info/1468761769)
+# **CSS Properties Anki Deck** | (Download [Here](https://ankiweb.net/shared/info/1468761769))
 
 This repository contains a text file of Anki cards for ~all~ most* CSS properties listed in the [MDN Web Docs CSS Properties Reference](https://developer.mozilla.org/en-US/docs/Web/CSS), as well as the original scripts used to generate the deck.
 
